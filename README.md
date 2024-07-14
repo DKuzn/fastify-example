@@ -1,0 +1,1 @@
+# Example Fastify project with Docker support
